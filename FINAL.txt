@@ -1,6 +1,0 @@
-ft1
-ft2
-ftc3
-	cambios en ftc3a
-	cambios en ftc3b
-	cambios en ftc3c
